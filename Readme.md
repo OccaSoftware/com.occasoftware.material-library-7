@@ -12,6 +12,9 @@
 ## About
 A collection of 5 photoscanned PBR materials. All textures are 2048x2048 resolution (2k). All materials tile seamlessly. All textures are fully compatible with a variety of different scenarios - Unity terrain, Unity BIRP Standard Shader, URP Standard Shader, HDRP Standard Shader, and much more are compatible.
 
+These materials were developed by https://www.occasoftware.com/.
+You can also access these materials free here: https://www.occasoftware.com/materials.
+
 All of the below maps are included for each material:
 Base Color
 Height
