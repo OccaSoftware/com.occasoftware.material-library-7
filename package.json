@@ -1,9 +1,9 @@
 {
-    "displayName": "Material Library 7",
-    "name": "com.occasoftware.material-library-7",
-    "version": "1.0.0",
+    "displayName": "Material Library",
+    "name": "com.occasoftware.material-library",
+    "version": "1.1.0",
     "unity": "2021.3",
-    "description": "Material Library 7 is a free Material pack for Unity. It is made up of 5 PBR Materials photographed in New York City and Mexico City.",
+    "description": "Material Library is a free Material pack for Unity. It is made up of 5 PBR Materials photographed in New York City and Mexico City.",
     "author": {
         "name": "OccaSoftware",
         "email": "hello@occasoftware.com",
